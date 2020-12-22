@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppIDName</key>
+	<string>zgmr</string>
+	<key>ApplicationIdentifierPrefix</key>
+	<array>
+	<string>UVBQE52457</string>
+	</array>
+	<key>CreationDate</key>
+	<date>2020-12-16T08:19:05Z</date>
+	<key>Platform</key>
+	<array>
+		<string>iOS</string>
+	</array>
+	<key>IsXcodeManaged</key>
+	<false/>
+	<key>DeveloperCertificates</key>
+	<array>
+		<data>MIIFrjCCBJagAwIBAgIISJbsmfh/dzgwDQYJKoZIhvcNAQELBQAwgZYxCzAJBgNVBAYTAlVTMRMwEQYDVQQKDApBcHBsZSBJbmMuMSwwKgYDVQQLDCNBcHBsZSBXb3JsZHdpZGUgRGV2ZWxvcGVyIFJlbGF0aW9uczFEMEIGA1UEAww7QXBwbGUgV29ybGR3aWRlIERldmVsb3BlciBSZWxhdGlvbnMgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkwHhcNMjAwNzMwMDM0NzU1WhcNMjEwNzMwMDM0NzU1WjCBoTEaMBgGCgmSJomT8ixkAQEMClA2WDRaUkxUNDYxMTAvBgNVBAMMKGlQaG9uZSBEZXZlbG9wZXI6IGxpeHVhbiBoZSAoWEY1RzQ5Mks5UCkxEzARBgNVBAsMClVWQlFFNTI0NTcxLjAsBgNVBAoMJVNoZW56aGVuIEJhbyBRdSBUZWNobm9sb2d5ICBDby4sIEx0ZC4xCzAJBgNVBAYTAlVTMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzucotbbAlTFpLjAptNh1faZP5c3dgtFBeiHmi6tQV4kz2PJePiO6RWRS+bObm3/JT1xVIQtPBZAjbP4P2OcggWRliQsLaSU82xFMQnSzvSdH2zUhUDpz00h6uSAbNGJD/a0B6itQTdslcroat4HJ+fuF5H7mNMz5nm56H4LV0lZhO+5ahvK/FRH911bh+vlBOLf0x3tZkrzMWHQMo/9snS+Ao33pDh0Ua6biDmIBZi8x+GQ9isJZbx2efckWz0s25o4/8fUnQWD1JzQ0mLijp4RJdUZtteKh/6RiI1TMGDE6B27lOhY4RZauu5Tls5XRGuqJEIrDxIrXspsrUGzY5QIDAQABo4IB8TCCAe0wDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSIJxcJqbYYYIvs67r2R1nFUlSjtzA/BggrBgEFBQcBAQQzMDEwLwYIKwYBBQUHMAGGI2h0dHA6Ly9vY3NwLmFwcGxlLmNvbS9vY3NwMDMtd3dkcjAxMIIBHQYDVR0gBIIBFDCCARAwggEMBgkqhkiG92NkBQEwgf4wgcMGCCsGAQUFBwICMIG2DIGzUmVsaWFuY2Ugb24gdGhpcyBjZXJ0aWZpY2F0ZSBieSBhbnkgcGFydHkgYXNzdW1lcyBhY2NlcHRhbmNlIG9mIHRoZSB0aGVuIGFwcGxpY2FibGUgc3RhbmRhcmQgdGVybXMgYW5kIGNvbmRpdGlvbnMgb2YgdXNlLCBjZXJ0aWZpY2F0ZSBwb2xpY3kgYW5kIGNlcnRpZmljYXRpb24gcHJhY3RpY2Ugc3RhdGVtZW50cy4wNgYIKwYBBQUHAgEWKmh0dHA6Ly93d3cuYXBwbGUuY29tL2NlcnRpZmljYXRlYXV0aG9yaXR5LzAWBgNVHSUBAf8EDDAKBggrBgEFBQcDAzAdBgNVHQ4EFgQU1FOgLJK0kJ3rMMGNmZMsx3ua6u0wDgYDVR0PAQH/BAQDAgeAMBMGCiqGSIb3Y2QGAQIBAf8EAgUAMA0GCSqGSIb3DQEBCwUAA4IBAQAepqs8eFyXmmrdPwRKT4G4GI9uoliXilPA1shr+EF6gnLU4A+dMnEnCH4RFFzX7Lp2K9l47EBpvE8dT0WovT06GFyAPi3KPYSsiH1K3ys5HqQpuj3QS7ReKdSy8HNTG+9HJnWw20soJPod1m3L+/nMvEofW9F/8wT4UOuSQiiHyNnDSin74trIhENsrNZBenkTSLY2vmKXeeikcAiw4tClEK/pUJm3u6clSK6MZdcOrZFHn7Yzxnjj+ImT8WewNEIFpj5q3vCwNhw/8AQPKpUI06e+/us2IJXcUrRfKgTILMibuikWpkpQ8pYsNrIfGvh9o0hMaY+rqo9Ud1oEG4QU</data>
+		<data>MIIFxDCCBKygAwIBAgIICnrsj4D5p5AwDQYJKoZIhvcNAQELBQAwgZYxCzAJBgNVBAYTAlVTMRMwEQYDVQQKDApBcHBsZSBJbmMuMSwwKgYDVQQLDCNBcHBsZSBXb3JsZHdpZGUgRGV2ZWxvcGVyIFJlbGF0aW9uczFEMEIGA1UEAww7QXBwbGUgV29ybGR3aWRlIERldmVsb3BlciBSZWxhdGlvbnMgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkwHhcNMjAwNzMwMDY1MDA2WhcNMjEwNzMwMDY1MDA2WjCBojEaMBgGCgmSJomT8ixkAQEMClA2WDRaUkxUNDYxMjAwBgNVBAMMKUFwcGxlIERldmVsb3BtZW50OiBsaXh1YW4gaGUgKFhGNUc0OTJLOVApMRMwEQYDVQQLDApVVkJRRTUyNDU3MS4wLAYDVQQKDCVTaGVuemhlbiBCYW8gUXUgVGVjaG5vbG9neSAgQ28uLCBMdGQuMQswCQYDVQQGEwJVUzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALOzr/1eGBBfY5vhFnNghEN5gxCYXYqaEmEED054Y9p2A5zxfh8gE1QZy6k2eth1BXga+W7nj1xlM04I5AjfFygOznieFnhZdloTaPoRXu8XN/olhdXeq3HX+dZV60c3fOvV+mL+uR734ArJBw7/CDgYeLEJ6m7ykKG8vV0NbtjQolw1vH1LlfJbY6+i/V0JhXNrB63xEP0lBetFFOeJIfqN//j/lcxGGw7EJtQYH1ua6G+4m+IYyYLEAbQ08OoG4om0IFYE8hjTytmKSx3I3x9cLG5PcmxMph436C7SEn4AIWnYeIaLC57KA1VR41OAc/rncpBP3UN5Qx5iHdBc9FMCAwEAAaOCAgYwggICMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUiCcXCam2GGCL7Ou69kdZxVJUo7cwPwYIKwYBBQUHAQEEMzAxMC8GCCsGAQUFBzABhiNodHRwOi8vb2NzcC5hcHBsZS5jb20vb2NzcDAzLXd3ZHIxOTCCAR0GA1UdIASCARQwggEQMIIBDAYJKoZIhvdjZAUBMIH+MIHDBggrBgEFBQcCAjCBtgyBs1JlbGlhbmNlIG9uIHRoaXMgY2VydGlmaWNhdGUgYnkgYW55IHBhcnR5IGFzc3VtZXMgYWNjZXB0YW5jZSBvZiB0aGUgdGhlbiBhcHBsaWNhYmxlIHN0YW5kYXJkIHRlcm1zIGFuZCBjb25kaXRpb25zIG9mIHVzZSwgY2VydGlmaWNhdGUgcG9saWN5IGFuZCBjZXJ0aWZpY2F0aW9uIHByYWN0aWNlIHN0YXRlbWVudHMuMDYGCCsGAQUFBwIBFipodHRwOi8vd3d3LmFwcGxlLmNvbS9jZXJ0aWZpY2F0ZWF1dGhvcml0eS8wFgYDVR0lAQH/BAwwCgYIKwYBBQUHAwMwHQYDVR0OBBYEFF7ZyOga9fssMGFvz7UHs0X1shj6MA4GA1UdDwEB/wQEAwIHgDATBgoqhkiG92NkBgECAQH/BAIFADATBgoqhkiG92NkBgEMAQH/BAIFADANBgkqhkiG9w0BAQsFAAOCAQEAeh2pLWBh4hoI+QLtMFNlmGIQnIyBtEP1cbA77DvG0UDgSh1IE4iNKbmw0EzO0VORxS9ddOC6ie+9luAt+KKoHBOg19jN/PQQhpd9L+83j2g6M/jw/a1iD2iDVatXmeqnBGzYtxrPid+b0qZ2v9c2kPrIpHLHmjQBArxgWmfR497L/H7WhKBqurU6ReJC8mdTOL8p9f07G32dWsjJaVG1LELy+YGAsMugKYZE+YB9NNBEZODOkjOMXf7bM/pjB0uWzhuDlhpaFkBuyxz88E3FvW6FTKYmY6IAUjjry+39wKozfWyabx5MGPwi95CwcvMOZYy6Om5qmRELBnEufuepMw==</data>
+	</array>
+
+										
+	<key>Entitlements</key>
+	<dict>
+				
+				<key>application-identifier</key>
+		<string>UVBQE52457.com.duolaios.zgmr</string>
+				
+				<key>keychain-access-groups</key>
+		<array>
+				<string>UVBQE52457.*</string>
+				<string>com.apple.token</string>
+		</array>
+				
+				<key>get-task-allow</key>
+		<true/>
+				
+				<key>com.apple.developer.team-identifier</key>
+		<string>UVBQE52457</string>
+				
+				<key>com.apple.developer.in-app-payments</key>
+		<array>
+				<string>merchant.zgmrpay</string>
+		</array>
+
+	</dict>
+	<key>ExpirationDate</key>
+	<date>2021-12-16T08:19:05Z</date>
+	<key>Name</key>
+	<string>zhanguomeiren</string>
+	<key>ProvisionedDevices</key>
+	<array>
+		<string>0a00c354795df4687b80855aad71ab79b3ae87aa</string>
+		<string>ddad87970a507431203699cd068174c63e124c2d</string>
+		<string>0d617724a7b300a1f350baa0dd49396e6997056b</string>
+		<string>095cef49d16bceb792372aff5dc6bad47a94805b</string>
+		<string>b771afc438f7e295d8dbc35d357dccd801ccbf7f</string>
+		<string>d685958b6d4ce27cb2b2b708b2172a0311fb812d</string>
+		<string>a1a567a3fa801bf352efcb869c54f7a552f14173</string>
+		<string>82a21d7feb9b766d84b555ec113725279448e3b4</string>
+		<string>fae6ea2f0861b9f9efeb5b261a916eafc59086fa</string>
+		<string>58bd8604d43dbd4e9eaa9e857fdebab37430f24c</string>
+	</array>
+	<key>TeamIdentifier</key>
+	<array>
+		<string>UVBQE52457</string>
+	</array>
+	<key>TeamName</key>
+	<string>Shenzhen Bao Qu Technology  Co., Ltd.</string>
+	<key>TimeToLive</key>
+	<integer>365</integer>
+	<key>UUID</key>
+	<string>bdb237ba-7736-4b06-9542-ed5362ec9f16</string>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>
