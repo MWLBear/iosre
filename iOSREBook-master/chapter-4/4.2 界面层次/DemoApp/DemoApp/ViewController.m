@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-
+#import <objc/message.h>
 @interface ViewController ()
 
 @property UIButton * btn;
@@ -28,6 +28,16 @@
     [self.view addSubview:_btn];
     
     NSLog(@"_btn address: %p", _btn);
+    
+    
+    
+    
+   // method_getTypeEncoding(class_getInstanceMethod([self class],@selector(printMessage:)));
+    
+}
+
+-(void)test{
+    NSLog(@"testtesttesttesttesttesttest");
 }
 
 -(void)onPress{

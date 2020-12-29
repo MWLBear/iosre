@@ -112,7 +112,7 @@
     _placeHolder = [placeHolder copy];
     
     _inputTextField.placeholder = _placeHolder;
-    [_inputTextField setValue:[UIColor colorWithRGBValue:0x9B9B9B] forKeyPath:@"_placeholderLabel.textColor"];
+   // [_inputTextField setValue:[UIColor colorWithRGBValue:0x9B9B9B] forKeyPath:@"_placeholderLabel.textColor"];
 }
 
 - (void)setNeedSecurity:(BOOL)needSecurity {

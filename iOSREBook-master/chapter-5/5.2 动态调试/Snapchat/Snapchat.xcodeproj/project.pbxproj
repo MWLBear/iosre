@@ -14,6 +14,7 @@
 		8CB2980B1F4470C000608838 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CB298091F4470C000608838 /* LaunchScreen.storyboard */; };
 		8CB2980E1F4470C000608838 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CB2980D1F4470C000608838 /* main.m */; };
 		8CB298191F44786900608838 /* pack.sh in Resources */ = {isa = PBXBuildFile; fileRef = 8CB298181F44786900608838 /* pack.sh */; };
+		E8C77D7B259356C500AEDA1C /* entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = E8C77D7A259356C500AEDA1C /* entitlements.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		8CB2980C1F4470C000608838 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8CB2980D1F4470C000608838 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8CB298181F44786900608838 /* pack.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = pack.sh; sourceTree = "<group>"; };
+		E8C77D7A259356C500AEDA1C /* entitlements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = entitlements.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		8CB297FD1F4470C000608838 /* Snapchat */ = {
 			isa = PBXGroup;
 			children = (
+				E8C77D7A259356C500AEDA1C /* entitlements.plist */,
 				8CB297FE1F4470C000608838 /* AppDelegate.h */,
 				8CB297FF1F4470C000608838 /* AppDelegate.m */,
 				8CB298011F4470C000608838 /* ViewController.h */,
@@ -132,6 +135,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E8C77D7B259356C500AEDA1C /* entitlements.plist in Resources */,
 				8CB2980B1F4470C000608838 /* LaunchScreen.storyboard in Resources */,
 				8CB298081F4470C000608838 /* Assets.xcassets in Resources */,
 				8CB298061F4470C000608838 /* Main.storyboard in Resources */,
@@ -152,8 +156,9 @@
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/pack.sh\"";
+			shellScript = "
+
+";
 		};
 /* End PBXShellScriptBuildPhase section */
 
@@ -294,7 +299,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 9XQEPG2J2J;
+				DEVELOPMENT_TEAM = 5PJFAB334A;
 				INFOPLIST_FILE = Snapchat/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -308,7 +313,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 9XQEPG2J2J;
+				DEVELOPMENT_TEAM = 5PJFAB334A;
 				INFOPLIST_FILE = Snapchat/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -337,6 +342,7 @@
 				8CB298131F4470C000608838 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
